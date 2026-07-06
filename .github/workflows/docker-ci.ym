@@ -1,6 +1,5 @@
 name: Build and Push to Docker Hub
 
-# מתי ה-Pipeline יתעורר לחיים? בכל פעם שעושים push לענף הראשי
 on:
   push:
     branches: [ "main" ]
